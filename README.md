@@ -28,9 +28,9 @@
   <a href="mailto:saaadfifa@gmail.com" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://wa.me/212621246089" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-  </a>
+<a href="https://wa.me/212621246089" target="_blank" rel="noreferrer">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">How to reach me (direct links)</h3>
