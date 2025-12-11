@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=saad-mrk&label=Profile%20views&color=0e75b6&style=flat" alt="saad-mrk" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=saad-mrk" alt="saad-mrk" />
-  </a>
-</p>
+
 
 - 👨‍💻 I’m currently working on **Vision Guard — face detection and display in the interface**
 
