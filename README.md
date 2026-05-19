@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning **T-SQL, Spring Boot**
 
-- 👯 I’m looking to collaborate on **Open Source Web Projects**
 
 - 🤝 I’m looking for help with **Advanced React & ASP.NET Optimization**
 
